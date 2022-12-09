@@ -1,0 +1,2 @@
+# CypressTypescriptTemplate
+Cypress Typescript Template
